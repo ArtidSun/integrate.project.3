@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\integrate",
+    "\\src\\main\\java\\integrate\\project",
+    "\\src\\main\\java\\integrate\\project\\controller",
+    "\\src\\main\\java\\integrate\\project\\models",
+    "\\src\\main\\java\\integrate\\project\\repositories"
+  ],
+  "SelectedNode": "\\src\\main\\java\\integrate\\project\\repositories\\ProductRepository.java",
+  "PreviewInSolutionExplorer": false
+}
